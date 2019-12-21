@@ -1,0 +1,8 @@
+prefix=/home/izz/ros_ws/ws2/install
+
+Name: ddynamic_reconfigure
+Description: Description of ddynamic_reconfigure
+Version: 0.2.2
+Cflags: -I/home/izz/ros_ws/ws2/install/include
+Libs: -L/home/izz/ros_ws/ws2/install/lib -lddynamic_reconfigure
+Requires: roscpp dynamic_reconfigure

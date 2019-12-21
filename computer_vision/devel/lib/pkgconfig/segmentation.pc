@@ -1,0 +1,8 @@
+prefix=/home/izz/ros_ws/ws2/devel
+
+Name: segmentation
+Description: Description of segmentation
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/izz/ros_ws/ws2/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/izz/ros_ws/ws2/devel
+
+Name: mw_udp_communicator
+Description: Description of mw_udp_communicator
+Version: 0.0.0
+Cflags: -I/home/izz/ros_ws/ws2/src/mw_udp_communicator/include
+Libs: -L/home/izz/ros_ws/ws2/devel/lib -lmw_udp_communicator
+Requires: 

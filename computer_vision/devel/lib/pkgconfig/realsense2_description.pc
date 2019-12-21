@@ -1,0 +1,8 @@
+prefix=/home/izz/ros_ws/ws2/devel
+
+Name: realsense2_description
+Description: Description of realsense2_description
+Version: 2.2.8
+Cflags: 
+Libs: -L/home/izz/ros_ws/ws2/devel/lib 
+Requires: 
